@@ -1,4 +1,4 @@
-# goldbach-proof
+فه# goldbach-proof
 # A Complete Proof of Goldbach’s Conjecture
 
 This repository contains a complete and constructive proof of the classical **Goldbach conjecture**, which states:
@@ -52,7 +52,8 @@ def D(N):
 if __name__ == "__main__":
     N = 100
     print(f"D({N}) = {D(N)}")
-- `proof.tex`: \documentclass[12pt]{article}
+- `proof.tex`:
+- \documentclass[12pt]{article}
 \usepackage[a4paper,margin=1in]{geometry}
 \usepackage{amsmath,amssymb,amsthm}
 \usepackage{graphicx}
