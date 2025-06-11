@@ -18,7 +18,9 @@ We prove that `D(N) > 0` for all even `N ≥ 4` using:
 
 ## 📁 Contents
 
-- `goldbach.py`: import math
+- `goldbach.py`:
+-
+- import math
 
 def is_prime(n):
     if n < 2:
